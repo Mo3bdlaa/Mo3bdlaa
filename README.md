@@ -1,6 +1,6 @@
-<img src="https://github.com/Mo3bdlaa/Mo3bdlaa/blob/main/Image/Hello.gif" alt="Hello 👋"/>
-**Welcome to ✨ my profile ✨**
+<img src="https://github.com/Mo3bdlaa/Mo3bdlaa/blob/main/Image/Hello.gif" alt="Hello 👋" style="width:1000px;"/>
 
+<center><p style="font-size: 18px;">
 - ⚡ My name is : Mohammed Abdullah
 
 - 🎓 I am Mechatronics Engineer
@@ -14,3 +14,4 @@
 - 📫 you can reach me on : 
     - Linkedin : <a href="https://www.linkedin.com/in/mo3bdlaa/">Mo3bdlaa</a>
 
+</p></center>
