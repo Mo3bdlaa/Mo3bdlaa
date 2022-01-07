@@ -1,16 +1,16 @@
-### Hi there 👋
+<img src="https://github.com/Mo3bdlaa/Mo3bdlaa/blob/main/Image/Hello.gif" alt="Hello 👋"/>
+**Welcome to ✨ my profile ✨**
 
-<!--
-**Mo3bdlaa/Mo3bdlaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- ⚡ My name is : Mohammed Abdullah
 
-Here are some ideas to get you started:
+- 🎓 I am Mechatronics Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m passionated in: 
+    - Embedded system developing
+    - Robotic process automation [RPA]
+    - Robots operating system [ROS]
+    - Internet of things [IoT]
+
+- 📫 you can reach me on : 
+    - Linkedin : <a href="https://www.linkedin.com/in/mo3bdlaa/">Mo3bdlaa</a>
+
