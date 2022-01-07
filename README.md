@@ -1,4 +1,4 @@
-<img src="https://github.com/Mo3bdlaa/Mo3bdlaa/blob/main/Image/Hello.gif" alt="Hello 👋" style="width:1000px;"/>
+<img src="https://github.com/Mo3bdlaa/Mo3bdlaa/blob/main/Images/Hello.gif" alt="Hello 👋" style="width:1000px;"/>
 
 <center><p style="font-size: 18px;">
 - ⚡ My name is : Mohammed Abdullah
