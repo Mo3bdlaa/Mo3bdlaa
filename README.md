@@ -11,7 +11,7 @@
     - Robots operating system [ROS]
     - Internet of things [IoT]
 
-- 📫 you can reach me on : 
+- 📫 you can reach me at : 
     - Linkedin : <a href="https://www.linkedin.com/in/mo3bdlaa/">Mo3bdlaa</a>
 
 </p></center>
