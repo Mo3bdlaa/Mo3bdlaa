@@ -5,7 +5,7 @@
 
 - 🎓 I am Mechatronics Engineer
 
-- 🌱 I’m passionated in: 
+- 🌱 I’m passionated about: 
     - Embedded system developing
     - Robotic process automation [RPA]
     - Robots operating system [ROS]
