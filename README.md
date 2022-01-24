@@ -10,6 +10,7 @@
     - Robotic process automation [RPA]
     - Robots operating system [ROS]
     - Internet of things [IoT]
+    - Autonomous vehicles
 
 - 📫 you can reach me at : 
     - Linkedin : <a href="https://www.linkedin.com/in/mo3bdlaa/">Mo3bdlaa</a>
