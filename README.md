@@ -8,6 +8,7 @@
 - 🌱 I’m passionated about: 
     - Embedded system developing
     - Robotic process automation [RPA]
+    - DevOps and Cloud Services
     - Robots operating system [ROS]
     - Internet of things [IoT]
     - Autonomous vehicles
